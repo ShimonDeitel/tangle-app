@@ -1,0 +1,29 @@
+{
+  "identifier" : "Tangle",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "tangle_pro_unlock",
+      "localizations" : [
+        {
+          "description" : "Unlimited tagged cables with photos and search.",
+          "displayName" : "Tangle Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tangle_pro_unlock",
+      "referenceName" : "Tangle Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
